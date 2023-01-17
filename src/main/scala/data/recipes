@@ -1,0 +1,137 @@
+recipes 
+
+
+title:makaroonilaatikko
+
+ingredient: onion:1.0:pcs:1.0
+ingredient: minced meat:400.0:g:1.0
+ingredient: salt:1.0:tsp:2.164
+ingredient: macaroni:400.0:g:1.0
+ingredient: water:4.0:dl:1.0
+ingredient: milk:1.0:l:1.0
+ingredient: egg:2.0:pcs:1.0
+ingredient: cheese:200.0:g:0.95
+
+
+guide:        Keitä makaroonit miltei kypsiksi väljässä lihaliemikuutioilla maustetussa vedessä.
+guide:        Kuullota sipulit ja ruskista jauheliha.
+guide:        Mausta makusi mukaan.
+guide:        Sekoita jauheliha ja makaroonit keskenään ja lisää joukkoon osa juustoraasteesta.
+guide:        Kaada isoon uunivuokaan ja kaada munamaitoseos päälle.
+guide:        Ripottele päälle juustoraaste ja paista uunissa 200 asteessa n.
+guide:        40 min.
+
+
+glutenFree:false
+milkFree:false
+fishFree:true
+nutFree:true
+vegetarian:true
+
+###
+title:lihapasteija
+
+ingredient: lehtitaikina:1000.0:kg:1.0
+ingredient: rice:1.0:dl:0.82
+ingredient: onion:1.0:pcs:1.0
+ingredient: carlic clove:2.0:pcs:1.0
+ingredient: rapeesed oil:1.0:tbsp:0.91
+ingredient: minced meat:400.0:g:1.0
+ingredient: salt:1.0:tsp:2.164
+ingredient: black pepper:0.5:tsp:0.47
+ingredient: egg:1.0:pcs:1.0
+
+
+guide:        Levitä taikinat sulamaan pakkauksen ohjeen mukaan.
+guide:        Keitä riisi kypsäksi suolalla maustetussa vedessä.
+guide:        Hienonna sipuli ja valkosipuli.
+guide:        Kuumenna öljy paistinpannussa.
+guide:        Kuullota sipulia ja valkosipulia hetki, kunnes sipuli on pehmennyt.
+guide:        Lisää jauheliha ja ruskista.
+guide:        Sekoita mausteet joukkoon.
+guide:        Yhdistä riisi ja jauheliha.
+guide:        Anna jäähtyä haaleaksi.
+guide:        Lisää sitten raaka muna joukkoon.
+guide:        Se sitoo täytteen ja pasteijoiden täyttäminen on helpompaa.
+guide:        Leikkaa sulaneet taikinalevyt kahteen osaan neliöiksi ja kauli niitä hieman ohuemmiksi.
+guide:        Jaa täyte paloille.
+guide:        Sivele reunat vedellä ja taita kolmion muotoon.
+guide:        "Liimaa" reunat haarukalla painellen.
+guide:        Leikkaa reunat siisteiksi halutessasi ja tee pasteijoiden pintaan 3 viiltoa.
+guide:        Nosta pasteijat uunipellille leivinpaperin päälle kahdelle pellille.
+guide:        Voitele pinta munalla.
+guide:        Paista pasteijat 225-asteisessa uunissa 12-15 minuuttia, kunnes ne ovat kullanruskeita ja kypsiä.
+
+
+glutenFree:false
+milkFree:true
+fishFree:true
+nutFree:true
+vegetarian:true
+
+###
+title:kaurakeksi
+
+ingredient: butter:50.0:g:0.9
+ingredient: sugar:1.0:dl:1.59
+ingredient: oatflakes:2.0:dl:0.4
+ingredient: flour:1.0:tbsp:0.59
+ingredient: baking powder:1.0:tsp:2.2
+ingredient: egg:1.0:pcs:1.0
+
+
+guide:        Sulata margariini ja sokeri kattilassa.
+guide:        Lisää loput aineet ja sekoita nopeasti.
+guide:        Jaa taikina pellille ja paista 5-7 min 200 asteessa.
+
+
+glutenFree:false
+milkFree:true
+fishFree:true
+nutFree:true
+vegetarian:true
+
+###
+title:poronkäristys
+
+ingredient: poronkäristys:240.0:g:1.0
+ingredient: bacon:140.0:g:1.0
+ingredient: onion:1.0:pcs:1.0
+ingredient: salt:1.0:tsp:2.16
+ingredient: black pepper:1.0:tsp:1.0
+ingredient: beer:1.0:dl:1.0
+ingredient: water:1.0:dl:1.0
+
+
+guide:        Hienonna pekoni.
+guide:        Kuori ja hienonna sipuli.
+guide:        Lisää pekonit ja sipulisilppu ja kääntele hetken.
+guide:        Anna kiehahtaa ja hauduta kannen alla liedellä miedolla lämmöllä tai uunissa 175 asteessa vähintään tunti, kunnes liha on mureaa.
+guide:        Lisää vettä tarvittaessa.
+guide:        Tarjoa esimerkiksi puikulaperunoiden, puolukoiden ja maustekurkkuviipaleiden kera.
+
+
+glutenFree:true
+milkFree:true
+fishFree:true
+nutFree:true
+vegetarian:true
+
+###
+title:perunamuussi
+
+ingredient: peruna:1.0:kg:1.0
+ingredient: milk:3.0:dl:1.0
+
+
+guide:     Keitä perunat kypsäksi ja lisää maito.
+guide:      Sitten vaan muussaat.
+
+
+glutenFree:true
+milkFree:true
+fishFree:true
+nutFree:true
+vegetarian:true
+
+###

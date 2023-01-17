@@ -1,0 +1,638 @@
+2023.01.17 21:51:40 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\hello-world2\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.17 21:51:41 INFO  logging to file C:\Users\Teemu\Desktop\hello-world2\.metals\metals.log
+2023.01.17 21:51:41 INFO  Started: Metals version 0.11.10+31-181ba661-SNAPSHOT in workspace 'C:\Users\Teemu\Desktop\hello-world2' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Teemu/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.17 21:51:41 INFO  time: initialize in 0.31s
+2023.01.17 21:51:42 WARN  Build server is not auto-connectable.
+2023.01.17 21:51:45 INFO  running 'C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Teemu\AppData\Local\Temp\metals9378948817353759225\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.01.17 21:51:46 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 11.0.11)
+2023.01.17 21:51:46 INFO  [info] loading settings for project hello-world2-build-build from metals.sbt ...
+2023.01.17 21:51:47 INFO  [info] loading project definition from C:\Users\Teemu\Desktop\hello-world2\project\project
+2023.01.17 21:51:48 INFO  [info] loading settings for project hello-world2-build from metals.sbt ...
+2023.01.17 21:51:48 INFO  [info] loading project definition from C:\Users\Teemu\Desktop\hello-world2\project
+2023.01.17 21:51:49 INFO  [success] Generated .bloop\hello-world2-build.json
+2023.01.17 21:51:49 INFO  [success] Total time: 1 s, completed 17.1.2023 klo 21.51.49
+2023.01.17 21:51:49 INFO  [info] loading settings for project hello-world2 from build.sbt ...
+2023.01.17 21:51:49 INFO  [info] set current project to hello-world (in build file:/C:/Users/Teemu/Desktop/hello-world2/)
+2023.01.17 21:51:49 INFO  [success] Generated .bloop\hello-world2.json
+2023.01.17 21:51:49 INFO  [success] Generated .bloop\hello-world2-test.json
+2023.01.17 21:51:49 INFO  [success] Total time: 0 s, completed 17.1.2023 klo 21.51.50
+2023.01.17 21:51:50 INFO  time: ran 'sbt bloopInstall' in 5.05s
+2023.01.17 21:51:50 INFO  Attempting to connect to the build server...
+2023.01.17 21:51:50 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 21:51:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\hello-world2\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 21:51:50 INFO  Attempting to connect to the build server...
+2023.01.17 21:51:50 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 21:51:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\hello-world2\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 21:51:50 INFO  time: Connected to build server in 0.13s
+2023.01.17 21:51:50 INFO  Connected to Build server: Bloop v1.5.6
+2023.01.17 21:51:53 INFO  time: indexed workspace in 2.21s
+2023.01.17 21:51:59 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:51:59 INFO  time: compiled hello-world2 in 0.42s
+2023.01.17 21:52:06 INFO  time: code lens generation in 1.07s
+2023.01.17 21:52:38 INFO  running 'C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Teemu\AppData\Local\Temp\metals4079356504701348897\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.01.17 21:52:38 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 11.0.11)
+2023.01.17 21:52:38 INFO  [info] loading settings for project hello-world2-build-build from metals.sbt ...
+2023.01.17 21:52:38 INFO  [info] loading project definition from C:\Users\Teemu\Desktop\hello-world2\project\project
+2023.01.17 21:52:39 INFO  [info] loading settings for project hello-world2-build from metals.sbt ...
+2023.01.17 21:52:39 INFO  [info] loading project definition from C:\Users\Teemu\Desktop\hello-world2\project
+2023.01.17 21:52:40 INFO  [success] Generated .bloop\hello-world2-build.json
+2023.01.17 21:52:40 INFO  [success] Total time: 1 s, completed 17.1.2023 klo 21.52.41
+2023.01.17 21:52:40 INFO  [info] loading settings for project hello-world2 from build.sbt ...
+2023.01.17 21:52:40 INFO  [info] set current project to hello-world (in build file:/C:/Users/Teemu/Desktop/hello-world2/)
+2023.01.17 21:52:42 INFO  [success] Generated .bloop\hello-world2-test.json
+2023.01.17 21:52:42 INFO  [success] Generated .bloop\hello-world2.json
+2023.01.17 21:52:42 INFO  [success] Total time: 0 s, completed 17.1.2023 klo 21.52.42
+2023.01.17 21:52:42 INFO  time: ran 'sbt bloopInstall' in 4.12s
+2023.01.17 21:52:42 INFO  Disconnecting from Bloop session...
+2023.01.17 21:52:42 INFO  Shut down connection with build server.
+2023.01.17 21:52:42 INFO  Shut down connection with build server.
+2023.01.17 21:52:42 INFO  Attempting to connect to the build server...
+2023.01.17 21:52:42 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 21:52:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\hello-world2\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 21:52:42 INFO  Attempting to connect to the build server...
+2023.01.17 21:52:42 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 21:52:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\hello-world2\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 21:52:42 INFO  time: Connected to build server in 62ms
+2023.01.17 21:52:42 INFO  Connected to Build server: Bloop v1.5.6
+2023.01.17 21:52:42 INFO  time: indexed workspace in 0.78s
+2023.01.17 21:52:52 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:52:52 INFO  time: compiled hello-world2 in 0.27s
+2023.01.17 21:53:30 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:53:30 INFO  time: compiled hello-world2 in 0.65s
+2023.01.17 21:53:32 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:53:32 INFO  time: compiled hello-world2 in 0.18s
+2023.01.17 21:53:49 INFO  compiling hello-world2 (3 scala sources)
+2023.01.17 21:53:49 INFO  time: compiled hello-world2 in 0.24s
+2023.01.17 21:53:51 INFO  compiling hello-world2 (3 scala sources)
+2023.01.17 21:53:51 INFO  time: compiled hello-world2 in 0.14s
+2023.01.17 21:54:14 INFO  compiling hello-world2 (3 scala sources)
+2023.01.17 21:54:14 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:54:17 INFO  compiling hello-world2 (3 scala sources)
+2023.01.17 21:54:17 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:54:25 INFO  compiling hello-world2 (4 scala sources)
+2023.01.17 21:54:25 INFO  time: compiled hello-world2 in 0.14s
+2023.01.17 21:54:27 INFO  compiling hello-world2 (4 scala sources)
+2023.01.17 21:54:27 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:54:29 INFO  compiling hello-world2 (4 scala sources)
+2023.01.17 21:54:29 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:54:31 INFO  compiling hello-world2 (4 scala sources)
+2023.01.17 21:54:31 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:54:34 INFO  compiling hello-world2 (4 scala sources)
+2023.01.17 21:54:34 INFO  time: compiled hello-world2 in 0.12s
+2023.01.17 21:54:36 INFO  compiling hello-world2 (4 scala sources)
+2023.01.17 21:54:36 INFO  time: compiled hello-world2 in 94ms
+2023.01.17 21:54:45 INFO  compiling hello-world2 (5 scala sources)
+2023.01.17 21:54:45 INFO  time: compiled hello-world2 in 0.12s
+2023.01.17 21:54:47 INFO  compiling hello-world2 (5 scala sources)
+2023.01.17 21:54:47 INFO  time: compiled hello-world2 in 0.1s
+2023.01.17 21:54:49 INFO  compiling hello-world2 (5 scala sources)
+2023.01.17 21:54:49 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:54:52 INFO  compiling hello-world2 (5 scala sources)
+2023.01.17 21:54:52 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:54:54 INFO  compiling hello-world2 (5 scala sources)
+2023.01.17 21:54:54 INFO  time: compiled hello-world2 in 0.12s
+2023.01.17 21:54:56 INFO  compiling hello-world2 (5 scala sources)
+2023.01.17 21:54:56 INFO  time: compiled hello-world2 in 88ms
+2023.01.17 21:55:04 INFO  compiling hello-world2 (6 scala sources)
+2023.01.17 21:55:04 INFO  time: compiled hello-world2 in 0.14s
+2023.01.17 21:55:06 INFO  compiling hello-world2 (6 scala sources)
+2023.01.17 21:55:06 INFO  time: compiled hello-world2 in 96ms
+2023.01.17 21:55:16 INFO  compiling hello-world2 (7 scala sources)
+2023.01.17 21:55:16 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:55:18 INFO  compiling hello-world2 (7 scala sources)
+2023.01.17 21:55:18 INFO  time: compiled hello-world2 in 89ms
+2023.01.17 21:55:20 INFO  compiling hello-world2 (7 scala sources)
+2023.01.17 21:55:20 INFO  time: compiled hello-world2 in 86ms
+2023.01.17 21:55:22 INFO  compiling hello-world2 (7 scala sources)
+2023.01.17 21:55:22 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:55:24 INFO  compiling hello-world2 (7 scala sources)
+2023.01.17 21:55:24 INFO  time: compiled hello-world2 in 95ms
+2023.01.17 21:55:30 INFO  compiling hello-world2 (8 scala sources)
+2023.01.17 21:55:32 INFO  time: compiled hello-world2 in 1.88s
+2023.01.17 21:56:13 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:56:13 INFO  time: compiled hello-world2 in 0.11s
+2023.01.17 21:58:27 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:58:27 INFO  time: compiled hello-world2 in 0.35s
+2023.01.17 21:58:29 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:58:29 INFO  time: compiled hello-world2 in 0.36s
+2023.01.17 21:58:48 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:58:48 INFO  time: compiled hello-world2 in 0.39s
+2023.01.17 21:58:54 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:58:54 INFO  time: compiled hello-world2 in 0.96s
+2023.01.17 21:58:57 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:58:57 INFO  time: compiled hello-world2 in 0.87s
+2023.01.17 21:59:06 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:59:06 WARN  Could not load snapshot text for C:\Users\Teemu\Desktop\hello-world2\src\main\scala\SmartCookbook GUI.scala
+2023.01.17 21:59:06 INFO  time: compiled hello-world2 in 0.81s
+2023.01.17 21:59:09 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:59:09 INFO  time: compiled hello-world2 in 0.76s
+2023.01.17 21:59:24 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:59:24 INFO  time: compiled hello-world2 in 0.83s
+2023.01.17 21:59:42 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:59:42 INFO  time: compiled hello-world2 in 0.83s
+2023.01.17 21:59:54 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 21:59:54 INFO  time: compiled hello-world2 in 0.76s
+2023.01.17 22:00:11 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 22:00:11 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:23: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                      ^
+2023.01.17 22:00:11 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:23: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                      ^
+2023.01.17 22:00:11 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:11 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:11 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:11 INFO  time: compiled hello-world2 in 44ms
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:23: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                      ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:23: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                      ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:23: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                      ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:23: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                      ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:14 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:16 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:23: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                      ^
+2023.01.17 22:00:16 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:16 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:16 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src\main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:16 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 22:00:16 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:16 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:16 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:16 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:16 INFO  time: compiled hello-world2 in 42ms
+2023.01.17 22:00:17 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:17 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:17 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:17 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:17 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:17 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:17 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:28: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                           ^
+2023.01.17 22:00:17 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:17 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main\scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:18 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 22:00:18 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src/main/scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:18 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src/main/scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:18 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main/scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:18 INFO  time: compiled hello-world2 in 41ms
+2023.01.17 22:00:18 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src/main/scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:18 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main/scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:18 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src/main/scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:18 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main/scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:19 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:34: stale bloop error: invalid escape character
+  val readData = "src/main/scala\data\ingredients.txt"
+                                 ^
+2023.01.17 22:00:19 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main/scala\data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:20 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 22:00:20 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main/scala/data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:20 INFO  time: compiled hello-world2 in 38ms
+2023.01.17 22:00:20 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main/scala/data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:20 INFO  file:///C:/Users/Teemu/Desktop/hello-world2/src/main/scala/SmartCookbook%20GUI.scala:19:39: stale bloop error: invalid escape character
+  val readData = "src/main/scala/data\ingredients.txt"
+                                      ^
+2023.01.17 22:00:22 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 22:00:22 INFO  time: compiled hello-world2 in 0.8s
+2023.01.17 22:00:26 INFO  compiling hello-world2 (1 scala source)
+2023.01.17 22:00:26 INFO  time: compiled hello-world2 in 0.77s
+2023.01.17 22:05:41 INFO  Shutting down server
+2023.01.17 22:05:41 INFO  shutting down Metals
+2023.01.17 22:05:41 INFO  Shut down connection with build server.
+2023.01.17 22:05:41 INFO  Shut down connection with build server.
+2023.01.17 22:05:41 INFO  Exiting server
+2023.01.17 22:07:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\Smart CookBook\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.17 22:07:36 INFO  logging to file C:\Users\Teemu\Desktop\Smart CookBook\.metals\metals.log
+2023.01.17 22:07:36 INFO  Started: Metals version 0.11.10+31-181ba661-SNAPSHOT in workspace 'C:\Users\Teemu\Desktop\Smart CookBook' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Teemu/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.17 22:07:37 INFO  time: initialize in 0.32s
+2023.01.17 22:07:38 INFO  Attempting to connect to the build server...
+2023.01.17 22:07:38 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:07:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:07:38 INFO  Attempting to connect to the build server...
+2023.01.17 22:07:38 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:07:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:07:38 INFO  time: Connected to build server in 0.2s
+2023.01.17 22:07:38 INFO  Connected to Build server: Bloop v1.5.6
+2023.01.17 22:07:39 INFO  no build target found for C:\Users\Teemu\Desktop\Smart CookBook\src\main\scala\SmartCookbook GUI.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.17 22:07:39 INFO  time: code lens generation in 1.3s
+2023.01.17 22:07:40 INFO  running 'C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Teemu\AppData\Local\Temp\metals18232301983196713226\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2023.01.17 22:07:40 INFO  time: indexed workspace in 1.09s
+2023.01.17 22:07:40 WARN  no build target for: C:\Users\Teemu\Desktop\Smart CookBook\src\main\scala\SmartCookbook GUI.scala
+2023.01.17 22:07:40 WARN  no build target for: C:\Users\Teemu\Desktop\Smart CookBook\src\main\scala\SmartCookbook GUI.scala
+2023.01.17 22:07:41 INFO  [info] welcome to sbt 1.8.2 (AdoptOpenJDK Java 11.0.11)
+2023.01.17 22:07:42 INFO  [info] loading settings for project smart-cookbook-build-build from metals.sbt ...
+2023.01.17 22:07:42 INFO  [info] loading project definition from C:\Users\Teemu\Desktop\Smart CookBook\project\project
+2023.01.17 22:07:43 INFO  time: code lens generation in 1.24s
+2023.01.17 22:07:43 INFO  [info] loading settings for project smart-cookbook-build from metals.sbt ...
+2023.01.17 22:07:43 INFO  [info] loading project definition from C:\Users\Teemu\Desktop\Smart CookBook\project
+2023.01.17 22:07:45 INFO  [success] Generated .bloop\smart-cookbook-build.json
+2023.01.17 22:07:45 INFO  [warn] Removed stale C:\Users\Teemu\Desktop\Smart CookBook\project\.bloop\hello-world2-build.json
+2023.01.17 22:07:45 INFO  [success] Total time: 1 s, completed 17.1.2023 klo 22.07.45
+2023.01.17 22:07:45 INFO  [info] loading settings for project smart-cookbook from build.sbt ...
+2023.01.17 22:07:45 INFO  [info] set current project to hello-world (in build file:/C:/Users/Teemu/Desktop/Smart%20CookBook/)
+2023.01.17 22:07:46 INFO  [success] Generated .bloop\smart-cookbook-test.json
+2023.01.17 22:07:46 INFO  [success] Generated .bloop\smart-cookbook.json
+2023.01.17 22:07:46 INFO  [warn] Removed stale C:\Users\Teemu\Desktop\Smart CookBook\.bloop\hello-world2.json
+2023.01.17 22:07:46 INFO  [warn] Removed stale C:\Users\Teemu\Desktop\Smart CookBook\.bloop\hello-world2-test.json
+2023.01.17 22:07:46 INFO  [success] Total time: 0 s, completed 17.1.2023 klo 22.07.46
+2023.01.17 22:07:46 INFO  time: ran 'sbt bloopInstall' in 5.7s
+2023.01.17 22:07:46 INFO  Disconnecting from Bloop session...
+2023.01.17 22:07:46 INFO  Shut down connection with build server.
+2023.01.17 22:07:46 INFO  Shut down connection with build server.
+2023.01.17 22:07:46 INFO  Attempting to connect to the build server...
+2023.01.17 22:07:46 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:07:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:07:46 INFO  Attempting to connect to the build server...
+2023.01.17 22:07:46 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:07:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:07:46 INFO  time: Connected to build server in 68ms
+2023.01.17 22:07:46 INFO  Connected to Build server: Bloop v1.5.6
+2023.01.17 22:07:47 INFO  time: indexed workspace in 0.78s
+2023.01.17 22:07:56 INFO  compiling smart-cookbook (7 scala sources)
+2023.01.17 22:07:58 INFO  time: compiled smart-cookbook in 1.61s
+tammik. 17, 2023 10:08:04 IP. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+java.util.concurrent.CompletionException: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:743)
+	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:731)
+	at java.base/java.util.concurrent.CompletableFuture.thenAcceptAsync(CompletableFuture.java:2112)
+	at scala.concurrent.java8.FuturesConvertersImpl$CF.thenAccept(FutureConvertersImpl.scala:37)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:279)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$: There is nothing to run or test in the current file.
+	at scala.meta.internal.metals.debug.DebugProvider$NoRunOptionException$.<clinit>(DebugProvider.scala:865)
+	at scala.meta.internal.metals.debug.DebugProvider.$anonfun$resolveInFile$2(DebugProvider.scala:354)
+	at scala.Option.fold(Option.scala:263)
+	at scala.meta.internal.metals.debug.DebugProvider.resolveInFile(DebugProvider.scala:325)
+	at scala.meta.internal.metals.debug.DebugProvider.debugDiscovery(DebugProvider.scala:406)
+	at scala.meta.internal.metals.MetalsLspService.executeCommand(MetalsLspService.scala:1968)
+	at scala.meta.metals.lsp.DelegatingScalaService.executeCommand(DelegatingScalaService.scala:169)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	... 9 more
+
+2023.01.17 22:10:36 INFO  Shutting down server
+2023.01.17 22:10:36 INFO  shutting down Metals
+2023.01.17 22:10:36 INFO  Shut down connection with build server.
+2023.01.17 22:10:36 INFO  Shut down connection with build server.
+2023.01.17 22:10:36 INFO  Exiting server
+2023.01.17 22:11:25 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\Smart CookBook\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.17 22:11:25 INFO  logging to file C:\Users\Teemu\Desktop\Smart CookBook\.metals\metals.log
+2023.01.17 22:11:25 INFO  Started: Metals version 0.11.10+31-181ba661-SNAPSHOT in workspace 'C:\Users\Teemu\Desktop\Smart CookBook' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Teemu/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.17 22:11:26 INFO  time: initialize in 0.32s
+2023.01.17 22:11:26 INFO  Attempting to connect to the build server...
+2023.01.17 22:11:26 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:11:26 INFO  skipping build import with status 'Installed'
+2023.01.17 22:11:28 INFO  no build target found for C:\Users\Teemu\Desktop\Smart CookBook\src\main\scala\SmartCookbook GUI.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.17 22:11:29 INFO  time: code lens generation in 1.02s
+2023.01.17 22:11:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:11:31 INFO  Attempting to connect to the build server...
+2023.01.17 22:11:31 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:11:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:11:31 INFO  time: Connected to build server in 4.35s
+2023.01.17 22:11:31 INFO  Connected to Build server: Bloop v1.5.6
+2023.01.17 22:11:32 INFO  time: indexed workspace in 1.23s
+2023.01.17 22:12:25 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:12:26 INFO  time: compiled smart-cookbook in 1.01s
+2023.01.17 22:12:31 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:12:31 INFO  time: compiled smart-cookbook in 0.13s
+2023.01.17 22:12:55 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:12:55 INFO  time: compiled smart-cookbook in 36ms
+2023.01.17 22:13:00 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:00 INFO  time: compiled smart-cookbook in 32ms
+2023.01.17 22:13:03 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:03 INFO  time: compiled smart-cookbook in 27ms
+2023.01.17 22:13:10 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:10 INFO  time: compiled smart-cookbook in 27ms
+2023.01.17 22:13:14 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:14 INFO  time: compiled smart-cookbook in 24ms
+2023.01.17 22:13:16 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:16 INFO  time: compiled smart-cookbook in 24ms
+2023.01.17 22:13:23 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:23 INFO  time: compiled smart-cookbook in 23ms
+2023.01.17 22:13:25 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:25 INFO  time: compiled smart-cookbook in 24ms
+2023.01.17 22:13:29 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:29 INFO  time: compiled smart-cookbook in 40ms
+2023.01.17 22:13:39 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:39 INFO  time: compiled smart-cookbook in 42ms
+2023.01.17 22:13:46 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:46 INFO  time: compiled smart-cookbook in 26ms
+2023.01.17 22:13:49 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:13:49 INFO  time: compiled smart-cookbook in 47ms
+tammik. 17, 2023 10:14:19 IP. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 289
+2023.01.17 22:14:20 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:14:20 INFO  time: compiled smart-cookbook in 82ms
+2023.01.17 22:14:25 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:14:25 INFO  time: compiled smart-cookbook in 36ms
+2023.01.17 22:14:30 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:14:30 INFO  time: compiled smart-cookbook in 39ms
+2023.01.17 22:14:35 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:14:35 INFO  time: compiled smart-cookbook in 36ms
+2023.01.17 22:14:52 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:14:52 INFO  time: compiled smart-cookbook in 37ms
+2023.01.17 22:14:55 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:14:55 INFO  time: compiled smart-cookbook in 22ms
+2023.01.17 22:14:57 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:14:57 INFO  time: compiled smart-cookbook in 21ms
+2023.01.17 22:15:02 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:02 INFO  time: compiled smart-cookbook in 36ms
+2023.01.17 22:15:04 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:04 INFO  time: compiled smart-cookbook in 39ms
+2023.01.17 22:15:14 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:14 INFO  time: compiled smart-cookbook in 23ms
+2023.01.17 22:15:18 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:18 INFO  time: compiled smart-cookbook in 20ms
+2023.01.17 22:15:20 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:20 INFO  time: compiled smart-cookbook in 23ms
+2023.01.17 22:15:24 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:24 INFO  time: compiled smart-cookbook in 37ms
+2023.01.17 22:15:29 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:29 INFO  time: compiled smart-cookbook in 36ms
+2023.01.17 22:15:34 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:34 INFO  time: compiled smart-cookbook in 20ms
+2023.01.17 22:15:45 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:45 INFO  time: compiled smart-cookbook in 21ms
+2023.01.17 22:15:47 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:47 INFO  time: compiled smart-cookbook in 20ms
+2023.01.17 22:15:54 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:15:54 INFO  time: compiled smart-cookbook in 21ms
+2023.01.17 22:16:07 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:16:07 INFO  time: compiled smart-cookbook in 33ms
+2023.01.17 22:16:09 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:16:09 INFO  time: compiled smart-cookbook in 31ms
+2023.01.17 22:16:11 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:16:11 INFO  time: compiled smart-cookbook in 38ms
+2023.01.17 22:16:13 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:16:13 INFO  time: compiled smart-cookbook in 45ms
+2023.01.17 22:16:21 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:16:21 INFO  time: compiled smart-cookbook in 43ms
+2023.01.17 22:16:24 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:16:24 INFO  time: compiled smart-cookbook in 32ms
+2023.01.17 22:16:26 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:16:26 INFO  time: compiled smart-cookbook in 29ms
+2023.01.17 22:16:28 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:16:28 INFO  time: compiled smart-cookbook in 29ms
+2023.01.17 22:17:07 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:17:07 INFO  time: compiled smart-cookbook in 30ms
+2023.01.17 22:17:15 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:17:15 INFO  time: compiled smart-cookbook in 20ms
+2023.01.17 22:17:21 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:17:21 INFO  time: compiled smart-cookbook in 31ms
+2023.01.17 22:17:26 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:17:26 INFO  time: compiled smart-cookbook in 32ms
+2023.01.17 22:18:01 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:01 INFO  time: compiled smart-cookbook in 20ms
+2023.01.17 22:18:07 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:07 INFO  time: compiled smart-cookbook in 22ms
+2023.01.17 22:18:09 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:09 INFO  time: compiled smart-cookbook in 19ms
+2023.01.17 22:18:16 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:16 INFO  time: compiled smart-cookbook in 20ms
+2023.01.17 22:18:21 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:21 INFO  time: compiled smart-cookbook in 19ms
+2023.01.17 22:18:25 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:25 INFO  time: compiled smart-cookbook in 19ms
+2023.01.17 22:18:29 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:29 INFO  time: compiled smart-cookbook in 19ms
+2023.01.17 22:18:31 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:31 INFO  time: compiled smart-cookbook in 30ms
+2023.01.17 22:18:34 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:34 INFO  time: compiled smart-cookbook in 19ms
+2023.01.17 22:18:50 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:18:50 INFO  time: compiled smart-cookbook in 30ms
+2023.01.17 22:20:10 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:20:10 INFO  time: compiled smart-cookbook in 32ms
+2023.01.17 22:20:14 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:20:14 INFO  time: compiled smart-cookbook in 37ms
+2023.01.17 22:20:17 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:20:17 INFO  time: compiled smart-cookbook in 33ms
+2023.01.17 22:20:20 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:20:20 INFO  time: compiled smart-cookbook in 31ms
+2023.01.17 22:20:24 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:20:24 INFO  time: compiled smart-cookbook in 29ms
+2023.01.17 22:20:26 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:20:26 INFO  time: compiled smart-cookbook in 27ms
+2023.01.17 22:21:28 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:21:28 INFO  time: compiled smart-cookbook in 20ms
+2023.01.17 22:21:42 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:21:42 INFO  time: compiled smart-cookbook in 27ms
+2023.01.17 22:21:59 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:21:59 INFO  time: compiled smart-cookbook in 31ms
+2023.01.17 22:22:01 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:22:01 INFO  time: compiled smart-cookbook in 21ms
+2023.01.17 22:22:04 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:22:04 INFO  time: compiled smart-cookbook in 20ms
+2023.01.17 22:22:09 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:22:09 INFO  time: compiled smart-cookbook in 22ms
+2023.01.17 22:23:23 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:23:23 INFO  time: compiled smart-cookbook in 21ms
+2023.01.17 22:23:26 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:23:26 INFO  time: compiled smart-cookbook in 31ms
+2023.01.17 22:23:29 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:23:29 INFO  time: compiled smart-cookbook in 31ms
+2023.01.17 22:23:31 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:23:31 INFO  time: compiled smart-cookbook in 19ms
+2023.01.17 22:23:34 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:23:34 INFO  time: compiled smart-cookbook in 18ms
+2023.01.17 22:23:38 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:23:38 INFO  time: compiled smart-cookbook in 31ms
+2023.01.17 22:23:42 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:23:42 INFO  time: compiled smart-cookbook in 33ms
+2023.01.17 22:23:46 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:23:46 INFO  time: compiled smart-cookbook in 0.54s
+2023.01.17 22:24:02 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:24:02 INFO  time: compiled smart-cookbook in 0.36s
+2023.01.17 22:24:04 INFO  compiling smart-cookbook (1 scala source)
+2023.01.17 22:24:04 INFO  time: compiled smart-cookbook in 0.35s
+2023.01.17 22:24:20 INFO  Shutting down server
+2023.01.17 22:24:20 INFO  shutting down Metals
+2023.01.17 22:24:20 INFO  Shut down connection with build server.
+2023.01.17 22:24:20 INFO  Shut down connection with build server.
+2023.01.17 22:24:20 INFO  Exiting server
+2023.01.17 22:27:29 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\Smart CookBook\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json[0m
+2023.01.17 22:27:30 INFO  logging to file C:\Users\Teemu\Desktop\Smart CookBook\.metals\metals.log[0m
+2023.01.17 22:27:30 INFO  Started: Metals version 0.11.10+31-181ba661-SNAPSHOT in workspace 'C:\Users\Teemu\Desktop\Smart CookBook' for client Visual Studio Code 1.74.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Teemu/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.17 22:27:30 INFO  time: initialize in 0.29s[0m
+2023.01.17 22:27:31 INFO  Attempting to connect to the build server...[0m
+2023.01.17 22:27:31 INFO  skipping build import with status 'Installed'[0m
+2023.01.17 22:27:31 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json[0m
+2023.01.17 22:27:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+2023.01.17 22:27:31 INFO  Attempting to connect to the build server...[0m
+2023.01.17 22:27:31 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json[0m
+2023.01.17 22:27:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+2023.01.17 22:27:31 INFO  time: Connected to build server in 0.16s[0m
+2023.01.17 22:27:31 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.01.17 22:27:33 INFO  time: indexed workspace in 1.48s[0m
+2023.01.17 22:30:35 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\Smart CookBook\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json[0m
+2023.01.17 22:30:36 INFO  logging to file C:\Users\Teemu\Desktop\Smart CookBook\.metals\metals.log[0m
+2023.01.17 22:30:36 INFO  Started: Metals version 0.11.10+31-181ba661-SNAPSHOT in workspace 'C:\Users\Teemu\Desktop\Smart CookBook' for client Visual Studio Code 1.74.3.[0m
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Teemu/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.17 22:30:36 INFO  time: initialize in 0.14s[0m
+2023.01.17 22:30:37 INFO  Attempting to connect to the build server...[0m
+2023.01.17 22:30:37 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json[0m
+2023.01.17 22:30:37 INFO  skipping build import with status 'Installed'[0m
+2023.01.17 22:30:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+2023.01.17 22:30:37 INFO  Attempting to connect to the build server...[0m
+2023.01.17 22:30:37 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json[0m
+2023.01.17 22:30:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+2023.01.17 22:30:37 INFO  time: Connected to build server in 0.16s[0m
+2023.01.17 22:30:37 INFO  Connected to Build server: Bloop v1.5.6[0m
+2023.01.17 22:30:38 INFO  no build target found for C:\Users\Teemu\Desktop\Smart CookBook\src\main\scala\SmartCookbook GUI.scala. Using presentation compiler with project's scala-library version: 3.2.1[0m
+2023.01.17 22:30:38 INFO  time: code lens generation in 1.26s[0m
+2023.01.17 22:30:39 INFO  time: indexed workspace in 1.19s[0m
+2023.01.17 22:30:56 INFO  Shutting down server[0m
+2023.01.17 22:30:56 INFO  shutting down Metals[0m
+2023.01.17 22:30:56 INFO  Shut down connection with build server.[0m
+2023.01.17 22:30:56 INFO  Shut down connection with build server.[0m
+2023.01.17 22:30:56 INFO  Exiting server[0m
+Exception in thread "pool-3-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023.01.17 22:33:06 INFO  Deduplicating compilation of smart-cookbook from bsp client 'Metals 0.11.10+31-181ba661-SNAPSHOT' (since 5m 34.806s)[0m

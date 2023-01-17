@@ -1,0 +1,19 @@
+beef:500.0:g:1.0
+flour:0.2:kg:0.59
+sugar:2.0:kg:1.59
+ice cream:10.0:l:1.0
+potato:10.0:pcs:1.0
+water:97.0:l:1.0
+macaroni:3.0:kg:1.0
+minced meat:4.0:kg:1.0
+beer:0.5:l:1.0
+cheese:0.8:kg:0.95
+vichy:1.0:l:1.0
+milk:2.0:l:1.0
+onion:13.0:pcs:1.0
+egg:41.0:pcs:1.0
+poronkäristys:0.52:kg:1.0
+bacon:2.0:kg:1.0
+black pepper:13.0:tsp:0.47
+salt:20.0:tsp:2.16
+kinkku:1.0:pcs:1.0

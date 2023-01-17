@@ -1,0 +1,4 @@
+[debug] [smart-cookbook-test] Classpath dependencies List()
+[debug] [smart-cookbook-test] Dependencies from configurations List(smart-cookbook)
+[debug] Bloop wrote the configuration of project 'smart-cookbook-test' to 'C:\Users\Teemu\Desktop\Smart CookBook\.bloop\smart-cookbook-test.json'
+[success] Generated .bloop\smart-cookbook-test.json
