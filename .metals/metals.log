@@ -636,3 +636,115 @@ Exception in thread "pool-3-thread-1" java.lang.InterruptedException
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 	at java.base/java.lang.Thread.run(Thread.java:829)
 2023.01.17 22:33:06 INFO  Deduplicating compilation of smart-cookbook from bsp client 'Metals 0.11.10+31-181ba661-SNAPSHOT' (since 5m 34.806s)[0m
+2023.01.17 22:37:14 INFO  Shutting down server[0m
+2023.01.17 22:37:14 INFO  shutting down Metals[0m
+2023.01.17 22:37:14 INFO  Shut down connection with build server.[0m
+2023.01.17 22:37:14 INFO  Shut down connection with build server.[0m
+2023.01.17 22:37:14 INFO  Exiting server[0m
+2023.01.17 22:37:34 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\Smart CookBook\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.17 22:37:35 INFO  logging to file C:\Users\Teemu\Desktop\Smart CookBook\.metals\metals.log
+2023.01.17 22:37:35 INFO  Started: Metals version 0.11.10+31-181ba661-SNAPSHOT in workspace 'C:\Users\Teemu\Desktop\Smart CookBook' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Teemu/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.17 22:37:35 INFO  time: initialize in 0.3s
+2023.01.17 22:37:35 INFO  Attempting to connect to the build server...
+2023.01.17 22:37:35 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:37:36 INFO  skipping build import with status 'Installed'
+2023.01.17 22:37:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:37:35 INFO  Attempting to connect to the build server...
+2023.01.17 22:37:35 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:37:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:37:35 INFO  time: Connected to build server in 0.11s
+2023.01.17 22:37:35 INFO  Connected to Build server: Bloop v1.5.6
+2023.01.17 22:37:38 INFO  time: indexed workspace in 1.69s
+2023.01.17 22:38:06 INFO  Shutting down server
+2023.01.17 22:38:06 INFO  shutting down Metals
+2023.01.17 22:38:06 INFO  Shut down connection with build server.
+2023.01.17 22:38:06 INFO  Shut down connection with build server.
+2023.01.17 22:38:06 INFO  Exiting server
+2023.01.17 22:38:16 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\Smart CookBook\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.17 22:38:16 INFO  logging to file C:\Users\Teemu\Desktop\Smart CookBook\.metals\metals.log
+2023.01.17 22:38:16 INFO  Started: Metals version 0.11.10+31-181ba661-SNAPSHOT in workspace 'C:\Users\Teemu\Desktop\Smart CookBook' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Teemu/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.17 22:38:17 INFO  time: initialize in 0.33s
+2023.01.17 22:38:17 INFO  Attempting to connect to the build server...
+2023.01.17 22:38:17 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:38:17 INFO  skipping build import with status 'Installed'
+2023.01.17 22:38:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:38:17 INFO  Attempting to connect to the build server...
+2023.01.17 22:38:17 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:38:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:38:17 INFO  time: Connected to build server in 0.12s
+2023.01.17 22:38:17 INFO  Connected to Build server: Bloop v1.5.6
+2023.01.17 22:38:19 INFO  time: indexed workspace in 1.58s
+2023.01.17 22:38:22 INFO  Shutting down server
+2023.01.17 22:38:22 INFO  shutting down Metals
+2023.01.17 22:38:22 INFO  Shut down connection with build server.
+2023.01.17 22:38:22 INFO  Shut down connection with build server.
+2023.01.17 22:38:22 INFO  Exiting server
+2023.01.17 22:38:25 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\Smart CookBook\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.17 22:38:26 INFO  logging to file C:\Users\Teemu\Desktop\Smart CookBook\.metals\metals.log
+2023.01.17 22:38:26 INFO  Started: Metals version 0.11.10+31-181ba661-SNAPSHOT in workspace 'C:\Users\Teemu\Desktop\Smart CookBook' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Teemu/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.17 22:38:27 INFO  time: initialize in 0.34s
+2023.01.17 22:38:28 INFO  Attempting to connect to the build server...
+2023.01.17 22:38:28 INFO  skipping build import with status 'Installed'
+2023.01.17 22:38:28 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:38:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:38:28 INFO  Attempting to connect to the build server...
+2023.01.17 22:38:28 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:38:28 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:38:28 INFO  time: Connected to build server in 0.19s
+2023.01.17 22:38:28 INFO  Connected to Build server: Bloop v1.5.6
+2023.01.17 22:38:29 INFO  no build target found for C:\Users\Teemu\Desktop\Smart CookBook\src\main\scala\SmartCookbook GUI.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.17 22:38:29 INFO  no build target found for C:\Users\Teemu\Desktop\Smart CookBook\src\main\scala\SmartCookbook GUI.scala. Using presentation compiler with project's scala-library version: 3.2.1
+tammik. 17, 2023 10:38:30 IP. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.01.17 22:38:30 INFO  time: indexed workspace in 1.4s
+2023.01.17 22:38:36 INFO  Shutting down server
+2023.01.17 22:38:36 INFO  shutting down Metals
+2023.01.17 22:38:36 INFO  Shut down connection with build server.
+2023.01.17 22:38:36 INFO  Shut down connection with build server.
+2023.01.17 22:38:36 INFO  Exiting server
+2023.01.17 22:38:41 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\Smart CookBook\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2023.01.17 22:38:42 INFO  logging to file C:\Users\Teemu\Desktop\Smart CookBook\.metals\metals.log
+2023.01.17 22:38:42 INFO  Started: Metals version 0.11.10+31-181ba661-SNAPSHOT in workspace 'C:\Users\Teemu\Desktop\Smart CookBook' for client Visual Studio Code 1.74.3.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/C:/Users/Teemu/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.10.6/scribe-slf4j_2.13-3.10.6.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.01.17 22:38:42 INFO  time: initialize in 0.34s
+2023.01.17 22:38:43 INFO  Attempting to connect to the build server...
+2023.01.17 22:38:43 INFO  skipping build import with status 'Installed'
+2023.01.17 22:38:43 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:38:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:38:43 INFO  Attempting to connect to the build server...
+2023.01.17 22:38:43 INFO  Bloop uses C:\Users\Teemu\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Teemu\.bloop\bloop.json
+2023.01.17 22:38:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Teemu\Desktop\Smart CookBook\project\.metals\bsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2023.01.17 22:38:43 INFO  time: Connected to build server in 0.16s
+2023.01.17 22:38:43 INFO  Connected to Build server: Bloop v1.5.6
+2023.01.17 22:38:44 INFO  no build target found for C:\Users\Teemu\Desktop\Smart CookBook\src\main\scala\SmartCookbook GUI.scala. Using presentation compiler with project's scala-library version: 3.2.1
+2023.01.17 22:38:44 INFO  time: code lens generation in 1.28s
+2023.01.17 22:38:46 INFO  time: indexed workspace in 1.2s
+2023.01.17 22:38:53 INFO  Shutting down server
+2023.01.17 22:38:53 INFO  shutting down Metals
+2023.01.17 22:38:53 INFO  Shut down connection with build server.
+2023.01.17 22:38:53 INFO  Shut down connection with build server.
+2023.01.17 22:38:53 INFO  Exiting server
+2023.01.31 10:41:23 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Teemu\Desktop\Smart CookBook\.metals\lsp.trace.json or C:\Users\Teemu\AppData\Local\scalameta\metals\cache\lsp.trace.json
