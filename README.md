@@ -25,9 +25,9 @@ A step by step series of examples that tell you how to get a development environ
 
 To run Smart-CookBook, follow these steps:
 
-1. Open the terminal or command prompt.
+1. Open the project's root directory.
 
-2. Navigate to the project's root directory.
+2. Navigate to the project's directory `src/main/scala`.
 
 3. Run the following file `SmartCookBook GUI.scala`:
    
@@ -39,6 +39,9 @@ To run Smart-CookBook, follow these steps:
 - `SmartCookBook GUI.scala`: The main GUI application file.
 
 - `Documents`: This folder contains the Project Document, Technical Plan, and Project Plan.
+
+
+###  Sreenshot from the application
 
 
 ![Näyttökuva 2023-01-31 104920](https://user-images.githubusercontent.com/71660117/215719110-6c3ee928-b059-41dc-adf6-f1bb67ccbc46.png)
